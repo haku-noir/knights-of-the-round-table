@@ -8,13 +8,17 @@ namespace Cards
     public class Attack : IPoint
     {
         public int Point { get; set; }
+        public int DefaultPoint { get; }
 
-        public Attack() : this(0)
+        [SerializeField] private static int defaultAttackPoint = 0;
+
+        public Attack() : this(defaultAttackPoint)
         { }
 
-        public Attack(int point)
+        public Attack(int defaultPoint)
         {
-            Point = point;
+            Point = defaultPoint;
+            DefaultPoint = defaultPoint;
         }
 
         public void AddPoint(int point)
