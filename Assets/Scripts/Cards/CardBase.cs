@@ -29,8 +29,9 @@ namespace Cards
         Gawain,
         Bedivere,
         Kay,
-        Percivale,
         Galahad,
+        Plomides,
+        Percivale,
         Lancelot,
         Tristram,
         Arthur
