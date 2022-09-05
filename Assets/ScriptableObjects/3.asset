@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2f880b84a37447dcb1ab4dc97fbf931, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  name: "\u30AC\u30D8\u30EA\u30B9"
+  icon: {fileID: -7417644147240365371, guid: 0e1c34d78c44840968b7c3eba65ff13c, type: 3}
+  description: "\u5C71\u672D\u304B\u30892\u679A\u9078\u3093\u3067\r\n\u624B\u672D\u306B\u52A0\u3048\u308B"
+  defaultAttackPoint: 3
+  type: 2
