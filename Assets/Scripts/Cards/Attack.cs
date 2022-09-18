@@ -26,9 +26,9 @@ namespace Cards
             Point += point;
         }
 
-        public void SubtractPoint(int point)
+        public void MulPoint(int num)
         {
-            Point -= point;
+            Point *= num;
         }
     }
 }

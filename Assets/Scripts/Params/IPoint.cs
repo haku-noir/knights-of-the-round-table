@@ -10,6 +10,6 @@ namespace Params
         int DefaultPoint { get; }
 
         void AddPoint(int point);
-        void SubtractPoint(int point);
+        void MulPoint(int point);
     }
 }
