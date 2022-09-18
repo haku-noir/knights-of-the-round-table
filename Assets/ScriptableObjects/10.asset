@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 10
   m_EditorClassIdentifier: 
   name: "\u30D1\u30FC\u30B7\u30F4\u30A1\u30EB"
-  icon: {fileID: -1617956404501257782, guid: 0e1c34d78c44840968b7c3eba65ff13c, type: 3}
+  icon: {fileID: 21300000, guid: 6d17a23b6acce4701b3a54fbbde2e26b, type: 3}
   description: "\u6B21\u306E\u30BF\u30FC\u30F3\r\n\u5473\u65B9\u306E\u52B9\u679C\u7121\u52B9"
   defaultAttackPoint: 10
   type: 9
